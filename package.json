@@ -1,8 +1,8 @@
 {
   "name": "website-preview-tool",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "bin/preview.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "boxen": "^7.0.0",
     "commander": "^9.4.0",
     "puppeteer": "^15.5.0"
+  },
+  "bin": {
+    "preview": "./bin/preview.js"
   }
 }
