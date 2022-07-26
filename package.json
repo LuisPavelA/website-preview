@@ -2,7 +2,7 @@
   "name": "website-preview-tool",
   "version": "1.0.4",
   "description": "",
-  "main": "bin/preview.js",
+  "main": "bin/index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,6 +16,6 @@
     "puppeteer": "^15.5.0"
   },
   "bin": {
-    "preview": "./bin/preview.js"
+    "preview": "./bin/index.js"
   }
 }
