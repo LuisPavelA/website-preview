@@ -1,6 +1,6 @@
 {
   "name": "website-preview-tool",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Get a screenshot of a website from the command line",
   "main": "bin/index.js",
   "type": "module",

@@ -24,14 +24,7 @@ Website Preview Tool
 ---
 > # How to use
 
-### You can run the tool by doing: 
-
-```
-npx website-preview-tool website <link>
-```
-**You need to add `https://` or `http://`**
-
-### You can install it on your computer globally by doing
+### **- You can install it on your computer globally by doing:**
 
 ```
 npm install -g website-preview-tool
@@ -43,6 +36,13 @@ and then you can run it by doing
 website-preview-tool website <link>
 ```
 
+
+### **- You can run the tool by doing:**
+
+```
+npx website-preview-tool website <link>
+```
+**You need to add `https://` or `http://`**
 > # Options
 `-o <output>` - Set the name of the screenshot output. The default is `website_preview.png`
 
