@@ -1,6 +1,6 @@
-# Website Preview Tool
+	# Website Preview Tool
 
-### Get a screenshot of a website from the command line.
+### Get a screenshot of a website from the command line
 ### Made with Puppeteer and Commander.
 
 ## - How to use
