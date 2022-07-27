@@ -17,6 +17,8 @@ Website Preview Tool
   Made with Puppeteer and Commander.
 </p>
 
+---
+
 ## - How to use
 
 ### You can run the tool by doing: 
