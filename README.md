@@ -18,8 +18,11 @@ Website Preview Tool
 </p>
 
 ---
-
-## - How to use
+> # Index
+### - [How to use](#how-to-use)
+### - [Options](#options)
+---
+> # How to use
 
 ### You can run the tool by doing: 
 
@@ -40,7 +43,7 @@ and then you can run it by doing
 website-preview-tool website <link>
 ```
 
-## - Options
+> # Options
 `-o <output>` - Set the name of the screenshot output. The default is `website_preview.png`
 
 `-h <number_of_pixels>` - Set the height of the website. The default is `1920`.
