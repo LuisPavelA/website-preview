@@ -1,7 +1,21 @@
-# Website Preview Tool
+<h1 align="center">
+Website Preview Tool
+</h1>
 
-### Get a screenshot of a website from the command line
-### Made with Puppeteer and Commander.
+<p align="center">
+  <strong>Get a screenshot of a website from the command line</strong>
+</p>
+<p align="center">
+  <h3 align="center">
+    <a href="https://github.com/LuisPavelA/website-preview-tool">GitHub</a>
+    <span> · </span>
+    <a href="https://www.npmjs.com/package/website-preview-tool">NPM</a>
+  </h3>
+</p>
+
+<p align="center">
+  Made with Puppeteer and Commander.
+</p>
 
 ## - How to use
 
